@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shlok Goswami</h1>
 <h3 align="center">I am highly driven by the potential of technology to transform our world. With a deep passion for programming and problem-solving. I am committed to continuous learning and staying up-to-date with the latest developments in the field.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif?cid=ecf05e47xru1dn6t7g9umcmteyu3j4gjosxn1a1jbk596fun&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif?cid=ecf05e47xru1dn6t7g9umcmteyu3j4gjosxn1a1jbk596fun&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **MERN**
 
